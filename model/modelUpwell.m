@@ -12,6 +12,9 @@ objMapVelo;
 %%  save
 saveVelo; 
 
+%%  compare 234 and 230 upwelling timescales
+compareRadio; 
+
 %%  print end
 disp('Done modeling upwelling data.')
 
